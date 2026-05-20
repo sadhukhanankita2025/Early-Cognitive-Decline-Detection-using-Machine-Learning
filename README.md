@@ -1,8 +1,5 @@
 # 🧠 NeuroAI — Early Cognitive Decline Detection via Voice
 
-![NeuroAI Landing Screenshot](frontend/src/assets/hero.png)
-![Brain Hologram](frontend/src/assets/brain_hologram.png)
-
 An AI-powered full-stack web application that detects early cognitive decline patterns from human speech using Deep Learning and NeuroAI techniques. Built with a **React + Vite** frontend and a **Flask** backend.
 
 > ⚠️ **Disclaimer:** This application is not a medical diagnostic tool. Predictions are AI-generated estimates and must not replace professional medical advice.
